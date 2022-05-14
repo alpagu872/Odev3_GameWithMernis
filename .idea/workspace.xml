@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d8e60cb-a75e-4e9f-ac61-51ed9fc6d7d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ExKsoap2_1_0_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Odev3_GameWithMernis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easywsdl/ExKsoap2-1.0.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easywsdl/ksoap2-android-assembly-3.6.4-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/BaseCampaignManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/BaseUserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/SellManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/UserCheckService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapters/MernisServiceAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concreate/CampaignManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concreate/UserCheckManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concreate/UsualSellManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concreate/UsualUserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entities/Campaign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mernisServiceReferance/LNGDateTimeConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mernisServiceReferance/LNGExtendedSoapSerializationEnvelope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mernisServiceReferance/LNGHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mernisServiceReferance/LNGKPSPublicSoap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mernisServiceReferance/LNGKPSPublicSoap12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mernisServiceReferance/LNGMarshalGuid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mernisServiceReferance/LNGStandardDateTimeConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mernisServiceReferance/Metadata.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="299MPuOrFAy4XJEvxj2Vh7ZkXJZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/etli8/IdeaProjects/Odev3_GameWithMernis/easywsdl/ksoap2-android-assembly-3.6.4-jar-with-dependencies.jar",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\etli8\IdeaProjects\Odev3_GameWithMernis\src\mernisServiceReferance" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Odev3_GameWithMernis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d8e60cb-a75e-4e9f-ac61-51ed9fc6d7d7" name="Changes" comment="" />
+      <created>1652520828341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652520828341</updated>
+      <workItem from="1652520830392" duration="2120000" />
+      <workItem from="1652526883025" duration="2086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
